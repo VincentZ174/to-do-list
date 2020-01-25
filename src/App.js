@@ -42,7 +42,7 @@ class App extends React.Component {
 
   render() {
     return (
-      <div className="app">
+      <div className="App">
       <div className="bg-text">
         <h1 className="app-title">To Do List</h1>
         <div>
